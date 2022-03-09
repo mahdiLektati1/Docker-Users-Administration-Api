@@ -1,0 +1,7 @@
+flask
+flask-restful
+sqlalchemy
+pymysql
+flask-cors
+uwsgi
+flask-swagger-ui

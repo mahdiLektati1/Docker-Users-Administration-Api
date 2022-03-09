@@ -18,6 +18,8 @@ Steps for executing :
 
     - Swagger API documentation : <http://localhost:8000/swagger>
 
+    - Users Endpoint : <http://localhost:8000/users>
+
     - PHPMyAdmin : <http://localhost:8080>
         - user      : root
         - password  : password  
